@@ -19,4 +19,8 @@ for x in range(len(str)):
 
 
 print(" Max = ",max)
+print(" Max = ",max)
+print(" Max = ",max)
+print(" Max = ",max)
+
 
